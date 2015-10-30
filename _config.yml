@@ -2,7 +2,7 @@ url: http://localhost:4000/
 baseurl: ''
 
 # Site Settings
-title: Timeline
+title: Portafolio
 description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
 keywords: "jekyll, theme"
 google-tracking-id:
